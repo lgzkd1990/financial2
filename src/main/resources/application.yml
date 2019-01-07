@@ -1,5 +1,5 @@
-#server:
-#  port: 8081
+server:
+  port: 8080
 swagger:
     groupName: mmm
     basePackage: com.zl.financial.controller
